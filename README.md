@@ -7,6 +7,6 @@ A simple Chrome extension that automatically activates Picture-in-Picture (PiP) 
 2. <strong>Load the extension in Chrome:</strong><br>
     ▫️ Open Chrome and go to chrome://extensions/.<br>
     ▫️ Enable Developer mode (toggle in the top-right corner).<br>
-    ▫️ Click the "Load unpacked" button and select the folder that contains the extension files (manifest.json, background.js, and icon.png).<br>
+    ▫️ Click the "Load unpacked" button and select the folder that contains the extension files (manifest.json, popup.js, and popup.png).<br>
 3. Once loaded, the extension icon should appear in your toolbar. When you click on it, the extension will activate Picture-in-Picture mode if a video is present on the current page.<br>
 
